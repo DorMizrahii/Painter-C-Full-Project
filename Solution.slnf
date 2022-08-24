@@ -1,0 +1,8 @@
+{
+  "solution": {
+    "path": "WindowsFormsApp6.sln",
+    "projects": [
+      "WindowsFormsApp6.csproj"
+    ]
+  }
+}

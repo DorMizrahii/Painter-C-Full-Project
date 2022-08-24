@@ -1,0 +1,111 @@
+C:\Users\knir4\source\repos\WindowsFormsApp6\WindowsFormsApp6\bin\Debug\WindowsFormsApp6.exe.config
+C:\Users\knir4\source\repos\WindowsFormsApp6\WindowsFormsApp6\bin\Debug\WindowsFormsApp6.exe
+C:\Users\knir4\source\repos\WindowsFormsApp6\WindowsFormsApp6\bin\Debug\WindowsFormsApp6.pdb
+C:\Users\knir4\source\repos\WindowsFormsApp6\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.csproj.AssemblyReference.cache
+C:\Users\knir4\source\repos\WindowsFormsApp6\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.csproj.SuggestedBindingRedirects.cache
+C:\Users\knir4\source\repos\WindowsFormsApp6\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.Form1.resources
+C:\Users\knir4\source\repos\WindowsFormsApp6\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.Properties.Resources.resources
+C:\Users\knir4\source\repos\WindowsFormsApp6\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.csproj.GenerateResource.cache
+C:\Users\knir4\source\repos\WindowsFormsApp6\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.csproj.CoreCompileInputs.cache
+C:\Users\knir4\source\repos\WindowsFormsApp6\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.exe
+C:\Users\knir4\source\repos\WindowsFormsApp6\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.pdb
+C:\Users\Tal\Desktop\‏‏תיקיה חדשה\WindowsFormsApp6\bin\Debug\WindowsFormsApp6.exe.config
+C:\Users\Tal\Desktop\‏‏תיקיה חדשה\WindowsFormsApp6\bin\Debug\WindowsFormsApp6.exe
+C:\Users\Tal\Desktop\‏‏תיקיה חדשה\WindowsFormsApp6\bin\Debug\WindowsFormsApp6.pdb
+C:\Users\Tal\Desktop\‏‏תיקיה חדשה\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.csproj.AssemblyReference.cache
+C:\Users\Tal\Desktop\‏‏תיקיה חדשה\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.Form1.resources
+C:\Users\Tal\Desktop\‏‏תיקיה חדשה\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.Properties.Resources.resources
+C:\Users\Tal\Desktop\‏‏תיקיה חדשה\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.csproj.GenerateResource.cache
+C:\Users\Tal\Desktop\‏‏תיקיה חדשה\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.csproj.CoreCompileInputs.cache
+C:\Users\Tal\Desktop\‏‏תיקיה חדשה\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.exe
+C:\Users\Tal\Desktop\‏‏תיקיה חדשה\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.pdb
+C:\Users\Tal\Desktop\‏‏תיקיה חדשה\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.Form2.resources
+C:\Users\Tal\Desktop\new\WindowsFormsApp6\bin\Debug\WindowsFormsApp6.exe.config
+C:\Users\Tal\Desktop\new\WindowsFormsApp6\bin\Debug\WindowsFormsApp6.exe
+C:\Users\Tal\Desktop\new\WindowsFormsApp6\bin\Debug\WindowsFormsApp6.pdb
+C:\Users\Tal\Desktop\new\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.csproj.AssemblyReference.cache
+C:\Users\Tal\Desktop\new\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.Form2.resources
+C:\Users\Tal\Desktop\new\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.Properties.Resources.resources
+C:\Users\Tal\Desktop\new\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.csproj.GenerateResource.cache
+C:\Users\Tal\Desktop\new\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.csproj.CoreCompileInputs.cache
+C:\Users\Tal\Desktop\new\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.exe
+C:\Users\Tal\Desktop\new\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.pdb
+C:\Users\Tal\Desktop\new\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.form1.resources
+C:\Users\lab103\Desktop\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.csproj.AssemblyReference.cache
+C:\Users\lab103\Desktop\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.form1.resources
+C:\Users\lab103\Desktop\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.Form2.resources
+C:\Users\lab103\Desktop\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.Properties.Resources.resources
+C:\Users\lab103\Desktop\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.csproj.GenerateResource.cache
+C:\Users\lab103\Desktop\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.csproj.CoreCompileInputs.cache
+C:\Users\lab103\Desktop\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.exe
+C:\Users\lab103\Desktop\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.pdb
+C:\Users\lab103\Desktop\WindowsFormsApp6\bin\Debug\WindowsFormsApp6.exe.config
+C:\Users\lab103\Desktop\WindowsFormsApp6\bin\Debug\WindowsFormsApp6.exe
+C:\Users\lab103\Desktop\WindowsFormsApp6\bin\Debug\WindowsFormsApp6.pdb
+C:\Users\8lab105\Desktop\WindowsFormsApp6\bin\Debug\WindowsFormsApp6.exe.config
+C:\Users\8lab105\Desktop\WindowsFormsApp6\bin\Debug\WindowsFormsApp6.exe
+C:\Users\8lab105\Desktop\WindowsFormsApp6\bin\Debug\WindowsFormsApp6.pdb
+C:\Users\8lab105\Desktop\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.csprojAssemblyReference.cache
+C:\Users\8lab105\Desktop\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.form1.resources
+C:\Users\8lab105\Desktop\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.Form2.resources
+C:\Users\8lab105\Desktop\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.Properties.Resources.resources
+C:\Users\8lab105\Desktop\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.csproj.GenerateResource.cache
+C:\Users\8lab105\Desktop\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.csproj.CoreCompileInputs.cache
+C:\Users\8lab105\Desktop\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.exe
+C:\Users\8lab105\Desktop\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.pdb
+C:\Users\Tal\Desktop\new new\WindowsFormsApp6\bin\Debug\WindowsFormsApp6.exe.config
+C:\Users\Tal\Desktop\new new\WindowsFormsApp6\bin\Debug\WindowsFormsApp6.exe
+C:\Users\Tal\Desktop\new new\WindowsFormsApp6\bin\Debug\WindowsFormsApp6.pdb
+C:\Users\Tal\Desktop\new new\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.csproj.AssemblyReference.cache
+C:\Users\Tal\Desktop\new new\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.form1.resources
+C:\Users\Tal\Desktop\new new\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.Form2.resources
+C:\Users\Tal\Desktop\new new\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.Properties.Resources.resources
+C:\Users\Tal\Desktop\new new\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.csproj.GenerateResource.cache
+C:\Users\Tal\Desktop\new new\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.csproj.CoreCompileInputs.cache
+C:\Users\Tal\Desktop\new new\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.exe
+C:\Users\Tal\Desktop\new new\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.pdb
+C:\Users\User\Desktop\WindowsFormsApp6\bin\Debug\WindowsFormsApp6.exe.config
+C:\Users\User\Desktop\WindowsFormsApp6\bin\Debug\WindowsFormsApp6.exe
+C:\Users\User\Desktop\WindowsFormsApp6\bin\Debug\WindowsFormsApp6.pdb
+C:\Users\User\Desktop\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.form1.resources
+C:\Users\User\Desktop\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.Form2.resources
+C:\Users\User\Desktop\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.Properties.Resources.resources
+C:\Users\User\Desktop\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.csproj.GenerateResource.cache
+C:\Users\User\Desktop\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.exe
+C:\Users\User\Desktop\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.pdb
+C:\Users\Tal\Desktop\project\New folder (3)\bin\Debug\WindowsFormsApp6.exe.config
+C:\Users\Tal\Desktop\project\New folder (3)\bin\Debug\WindowsFormsApp6.exe
+C:\Users\Tal\Desktop\project\New folder (3)\bin\Debug\WindowsFormsApp6.pdb
+C:\Users\Tal\Desktop\project\New folder (3)\obj\Debug\WindowsFormsApp6.csproj.AssemblyReference.cache
+C:\Users\Tal\Desktop\project\New folder (3)\obj\Debug\WindowsFormsApp6.form1.resources
+C:\Users\Tal\Desktop\project\New folder (3)\obj\Debug\WindowsFormsApp6.Form2.resources
+C:\Users\Tal\Desktop\project\New folder (3)\obj\Debug\WindowsFormsApp6.Properties.Resources.resources
+C:\Users\Tal\Desktop\project\New folder (3)\obj\Debug\WindowsFormsApp6.csproj.GenerateResource.cache
+C:\Users\Tal\Desktop\project\New folder (3)\obj\Debug\WindowsFormsApp6.csproj.CoreCompileInputs.cache
+C:\Users\Tal\Desktop\project\New folder (3)\obj\Debug\WindowsFormsApp6.exe
+C:\Users\Tal\Desktop\project\New folder (3)\obj\Debug\WindowsFormsApp6.pdb
+C:\Users\Tal\Desktop\New folder (3)\bin\Debug\WindowsFormsApp6.exe.config
+C:\Users\Tal\Desktop\New folder (3)\bin\Debug\WindowsFormsApp6.exe
+C:\Users\Tal\Desktop\New folder (3)\bin\Debug\WindowsFormsApp6.pdb
+C:\Users\Tal\Desktop\New folder (3)\obj\Debug\WindowsFormsApp6.csproj.AssemblyReference.cache
+C:\Users\Tal\Desktop\New folder (3)\obj\Debug\WindowsFormsApp6.form1.resources
+C:\Users\Tal\Desktop\New folder (3)\obj\Debug\WindowsFormsApp6.Form2.resources
+C:\Users\Tal\Desktop\New folder (3)\obj\Debug\WindowsFormsApp6.Properties.Resources.resources
+C:\Users\Tal\Desktop\New folder (3)\obj\Debug\WindowsFormsApp6.csproj.GenerateResource.cache
+C:\Users\Tal\Desktop\New folder (3)\obj\Debug\WindowsFormsApp6.csproj.CoreCompileInputs.cache
+C:\Users\Tal\Desktop\New folder (3)\obj\Debug\WindowsFormsApp6.exe
+C:\Users\Tal\Desktop\New folder (3)\obj\Debug\WindowsFormsApp6.pdb
+C:\Users\User\Desktop\New folder (3)\obj\Debug\WindowsFormsApp6.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\New folder (3)\obj\Debug\WindowsFormsApp6.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\New folder (3)\obj\Debug\WindowsFormsApp6.form1.resources
+C:\Users\User\Desktop\New folder (3)\obj\Debug\WindowsFormsApp6.Properties.Resources.resources
+C:\Users\User\Desktop\New folder (3)\obj\Debug\WindowsFormsApp6.csproj.GenerateResource.cache
+C:\Users\User\Desktop\New folder (3)\obj\Debug\WindowsFormsApp6.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\New folder (3)\obj\Debug\WindowsFormsApp6.exe
+C:\Users\User\Desktop\New folder (3)\obj\Debug\WindowsFormsApp6.pdb
+C:\Users\User\Desktop\New folder (3)\bin\Debug\WindowsFormsApp6.exe.config
+C:\Users\User\Desktop\New folder (3)\bin\Debug\WindowsFormsApp6.exe
+C:\Users\User\Desktop\New folder (3)\bin\Debug\WindowsFormsApp6.pdb
